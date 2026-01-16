@@ -1,6 +1,6 @@
 # Project-Group-5
 
-Rustislav Boulton<br>
+Rustislav Boulton <br>
 Email: boultonr@oregonstate.edu<br>
 Discord: pikadrago<br>
 Git Repo:
